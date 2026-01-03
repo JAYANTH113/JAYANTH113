@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @JAYANTH113
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning  database management
-- 💞️ I’m looking to collaborate on any intern that would grow up my skills
 - 📫 How to reach me at y.jayanth123@gmail.com
 
 <!---
